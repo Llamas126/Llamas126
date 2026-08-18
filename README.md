@@ -79,15 +79,7 @@ I'm a **Systems Engineering student** at *Universidad Libre, Seccional Barranqui
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Llamas126&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Llamas126&hide_border=true" alt="GitHub Streak" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Llamas126&layout=compact&hide_border=true" alt="Top Languages" height="165">
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Llamas126&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="165"> <img src="https://streak-stats.demolab.com/?user=Llamas126&hide_border=true&theme=dark" alt="GitHub Streak" height="165"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Llamas126&layout=compact&hide_border=true&theme=dark&cache_seconds=1800" alt="Top Languages" height="165"> </p>
 ---
 
 ## 📫 Let's Connect
