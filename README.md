@@ -1,8 +1,5 @@
-<h1 align="center">Hi there 👋 I'm Juan Camilo</h1>
-<h3 align="center">Full-Stack Developer · AI Agents (n8n) · Cybersecurity Enthusiast</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Systems+Engineering+Student+%40+Universidad+Libre;Building+AI+Agents+with+n8n;Full-Stack+Dev+%7C+React+%C2%B7+TypeScript+%C2%B7+Firebase;Learning+Java+%2F+Spring+Boot+%E2%80%94+Targeting+Spain+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Llamas126/Llamas126/main/assets/terminal-banner.svg" width="800" alt="Terminal banner"/>
 </p>
 
 <p align="center">
@@ -54,6 +51,16 @@ I'm a **Systems Engineering student** at *Universidad Libre, Seccional Barranqui
 
 ---
 
+## 🤖 How My Stack Connects
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Llamas126/Llamas126/main/assets/agent-network.svg" width="760" alt="Animated agent network"/>
+</p>
+
+<p align="center"><sub>n8n as the orchestrator at the center — the way I actually think about automation, not just a list of logos.</sub></p>
+
+---
+
 ## 📌 Featured Repositories
 
 | Repo | Description | Stack |
@@ -90,6 +97,12 @@ I'm actively looking for **junior developer opportunities in Spain**, and open t
 - 📧 Email: TU-EMAIL@ejemplo.com
 - 💼 LinkedIn: [linkedin.com/in/tu-usuario](https://linkedin.com/in/TU-USUARIO-LINKEDIN)
 - 📍 Based in Barranquilla, Colombia — relocating to Spain
+
+<!-- Uncomment once you've set up assets/snake.yml as a GitHub Action (see setup notes below)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Llamas126/Llamas126/output/github-contribution-grid-snake-dark.svg" width="800"/>
+</p>
+-->
 
 ---
 ---
