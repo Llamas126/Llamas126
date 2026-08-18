@@ -12,7 +12,7 @@
   <circle cx="24" cy="17" r="6" fill="#ff5f56"/>
   <circle cx="46" cy="17" r="6" fill="#ffbd2e"/>
   <circle cx="68" cy="17" r="6" fill="#27c93f"/>
-  <text x="400" y="21" text-anchor="middle" fill="#8b949e" font-size="12">juan@barranquilla: ~</text>
+  <text x="400" y="21" text-anchor="middle" fill="#8b949e" font-size="12">juanc-llamasc@unilibre.edu.co: ~</text>
 
   <!-- line 1 -->
   <clipPath id="clip1">
@@ -31,7 +31,7 @@
     </rect>
   </clipPath>
   <g clip-path="url(#clip2)">
-    <text x="20" y="98" font-size="15"><tspan fill="#58a6ff">&gt;</tspan><tspan fill="#e6edf3"> Juan Camilo — Full-Stack Dev &amp; AI Agent Builder</tspan></text>
+    <text x="20" y="98" font-size="15"><tspan fill="#58a6ff">&gt;</tspan><tspan fill="#e6edf3"> Juan Camilo Llamas — Full-Stack Dev &amp; AI Agent Builder</tspan></text>
   </g>
 
   <!-- line 3 -->
