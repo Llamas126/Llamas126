@@ -98,11 +98,10 @@ I'm actively looking for **junior developer opportunities in Spain**, and open t
 - 💼 LinkedIn: [linkedin.com/in/tu-usuario](https://linkedin.com/in/TU-USUARIO-LINKEDIN)
 - 📍 Based in Barranquilla, Colombia — relocating to Spain
 
-<!-- Uncomment once you've set up assets/snake.yml as a GitHub Action (see setup notes below)
 <p align="center">
   <img src="https://raw.githubusercontent.com/Llamas126/Llamas126/output/github-contribution-grid-snake-dark.svg" width="800"/>
 </p>
--->
+
 
 ---
 ---
