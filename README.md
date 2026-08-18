@@ -3,9 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="mailto:TU-EMAIL@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/TU-USUARIO-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:juanc-llamasc@unilibre.edu.co"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/juanc-llamasc/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Llamas126"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <a href="#-about-me"><img src="https://img.shields.io/badge/🇬🇧_Read_in-English-2E9EF7?style=for-the-badge"></a>
+  <a href="#-sobre-mí"><img src="https://img.shields.io/badge/🇪🇸_Leer_en-Español-f0883e?style=for-the-badge"></a>
 </p>
 
 ---
@@ -102,12 +107,15 @@ I'm actively looking for **junior developer opportunities in Spain**, and open t
   <img src="https://raw.githubusercontent.com/Llamas126/Llamas126/output/github-contribution-grid-snake-dark.svg" width="800"/>
 </p>
 
-
 ---
 ---
 
 <h1 align="center">👋 Hola, soy Juan Camilo</h1>
 <h3 align="center">Desarrollador Full-Stack · Agentes de IA (n8n) · Entusiasta de Ciberseguridad</h3>
+
+<p align="center">
+  <a href="#-about-me"><img src="https://img.shields.io/badge/⬆_Volver_al-English-2E9EF7?style=for-the-badge"></a>
+</p>
 
 ## 🧭 Sobre mí
 
