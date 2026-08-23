@@ -19,7 +19,7 @@
 
 I'm a **Systems Engineering student** at *Universidad Libre, Seccional Barranquilla* (Colombia), finishing my degree while working as an **independent software developer**. I build AI automation agents with **n8n**, full-stack web applications, and information security prototypes. I'm currently preparing to relocate to **Spain**, sharpening my **Java / Spring Boot** skills for junior developer roles.
 
-- 🔭 Currently building AI-powered automation workflows and full-stack apps for real clients
+- 🔭 Currently building AI-powered automation workflows, full-stack apps, and microservices platforms for real clients
 - 🌱 Deepening my knowledge of **Java & Spring Boot** for the European job market
 - 🔐 Passionate about applied cybersecurity — encryption, auth, secure architecture
 - 🎓 Systems Engineering student, IEEE UNILIBRE BAQ community member
@@ -47,6 +47,9 @@ I'm a **Systems Engineering student** at *Universidad Libre, Seccional Barranqui
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Security**
 
@@ -70,6 +73,8 @@ I'm a **Systems Engineering student** at *Universidad Libre, Seccional Barranqui
 
 | Repo | Description | Stack |
 |---|---|---|
+| [**fastmedia-downloader**](https://github.com/Llamas126/fastmedia-downloader) | High-performance microservices platform for video and audio extraction — production-ready release v1.0.0 | Python, TypeScript, FastAPI, Next.js, Docker |
+| [**winsignares/SIHUL**](https://github.com/winsignares/SIHUL) | Collaborative development on an organizational software project | TypeScript |
 | [**YourBoleta**](https://github.com/Llamas126/YourBoleta) | Personal/portfolio project — event ticketing concept | — |
 | [**apuestas-deportivas**](https://github.com/Llamas126/apuestas-deportivas) | Sports betting web app built as a Flutter learning project | Dart, Flutter |
 | [**proyecto-flutter**](https://github.com/Llamas126/proyecto-flutter) | Flutter application project | Dart, Flutter |
@@ -78,7 +83,7 @@ I'm a **Systems Engineering student** at *Universidad Libre, Seccional Barranqui
 | [**Learning-flutter**](https://github.com/Llamas126/Learning-flutter) | Flutter fundamentals and exercises | Dart, Flutter |
 | [**G_Colab**](https://github.com/Llamas126/G_Colab) | Data science / Google Colab notebooks | Python |
 
-> 💡 *More projects — including a full-stack e-commerce app (React/TypeScript/Firebase) and a security prototype with AES-256-GCM/RSA-2048 encryption — coming soon as I finish polishing them for public release.*
+> 💡 *More projects coming soon — including a full-stack e-commerce app (React/TypeScript/Firebase), a security prototype with AES-256-GCM/RSA-2048 encryption, and `academic-automl-platform`, an AutoML platform for multi-target tabular analysis with automated LaTeX reporting, currently under active development.*
 
 ---
 
@@ -121,7 +126,7 @@ I'm actively looking for **junior developer opportunities in Spain**, and open t
 
 Soy estudiante de **Ingeniería de Sistemas** en la *Universidad Libre, Seccional Barranquilla*, y trabajo de forma independiente como desarrollador de software. Construyo agentes de automatización con **n8n**, aplicaciones web full-stack y prototipos de seguridad informática. Actualmente me preparo para trasladarme a **España**, reforzando mis habilidades en **Java / Spring Boot** para optar a roles de desarrollador junior.
 
-- 🔭 Desarrollando flujos de automatización con IA y aplicaciones full-stack para clientes reales
+- 🔭 Desarrollando flujos de automatización con IA, aplicaciones full-stack y plataformas de microservicios para clientes reales
 - 🌱 Profundizando en **Java y Spring Boot** con miras al mercado europeo
 - 🔐 Apasionado por la ciberseguridad aplicada — cifrado, autenticación, arquitectura segura
 - 🎓 Estudiante de Ingeniería de Sistemas, vinculado a la comunidad IEEE UNILIBRE BAQ
