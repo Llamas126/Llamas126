@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:juanc-llamasc@unilibre.edu.co"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:juanc-llamasc@qbitsglobal.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/juanc-llamasc/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Llamas126"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
@@ -105,7 +105,7 @@ I'm a **Systems Engineering student** at *Universidad Libre, Seccional Barranqui
 
 I'm actively looking for **junior developer opportunities in Spain**, and open to collaborating on AI automation, full-stack, or security-focused projects.
 
-- 📧 Email: juanc-llamasc@unilibre.edu.co
+- 📧 Email: juanc-llamasc@qbitsglobal.com
 - 💼 LinkedIn: [linkedin.com/in/juanc-llamasc](https://www.linkedin.com/in/juanc-llamasc/)
 - 📍 Based in Barranquilla, Colombia — relocating to Spain
 
@@ -134,6 +134,6 @@ Soy estudiante de **Ingeniería de Sistemas** en la *Universidad Libre, Secciona
 
 ## 📫 Contacto
 
-- 📧 Correo: juanc-llamasc@unilibre.edu.co
+- 📧 Correo: juanc-llamasc@qbitsglobal.com
 - 💼 LinkedIn: [linkedin.com/in/juanc-llamasc](https://www.linkedin.com/in/juanc-llamasc/)
 - 📍 Barranquilla, Colombia — en proceso de traslado a España
