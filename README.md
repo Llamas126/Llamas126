@@ -19,7 +19,7 @@
 
 I'm a **Systems Engineering student** at *Universidad Libre, Seccional Barranquilla* (Colombia), finishing my degree while working as an **independent software developer**. I build AI automation agents with **n8n**, full-stack web applications, and information security prototypes. I'm currently preparing to relocate to **Spain**, sharpening my **Java / Spring Boot** skills for junior developer roles.
 
-- 🔭 Currently building AI-powered automation workflows, full-stack apps, and microservices platforms for real clients
+- 🔭 Currently building AI-powered automation workflows, full-stack apps, microservices platforms, and `academic-automl-platform` (AutoML for multi-target tabular analysis with automated LaTeX reporting)
 - 🌱 Deepening my knowledge of **Java & Spring Boot** for the European job market
 - 🔐 Passionate about applied cybersecurity — encryption, auth, secure architecture
 - 🎓 Systems Engineering student, IEEE UNILIBRE BAQ community member
@@ -50,6 +50,7 @@ I'm a **Systems Engineering student** at *Universidad Libre, Seccional Barranqui
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37B34A?style=flat-square&logo=celery&logoColor=white)
 
 **Security**
 
@@ -74,16 +75,16 @@ I'm a **Systems Engineering student** at *Universidad Libre, Seccional Barranqui
 | Repo | Description | Stack |
 |---|---|---|
 | [**fastmedia-downloader**](https://github.com/Llamas126/fastmedia-downloader) | High-performance microservices platform for video and audio extraction — production-ready release v1.0.0 | Python, TypeScript, FastAPI, Next.js, Docker |
+| [**academic-automl-platform**](https://github.com/Llamas126/academic-automl-platform) | Dynamic AutoML platform for multi-target tabular analysis with automated LaTeX reporting, SHAP explainability, and publication-ready 300 DPI figures | Python, FastAPI, Celery, Docker, Next.js |
 | [**winsignares/SIHUL**](https://github.com/winsignares/SIHUL) | Collaborative development on an organizational software project | TypeScript |
-| [**YourBoleta**](https://github.com/Llamas126/YourBoleta) | Personal/portfolio project — event ticketing concept | — |
+| [**YourBoleta**](https://github.com/Llamas126/YourBoleta) | Event management relational database schema with ER diagram | SQL, draw.io |
 | [**apuestas-deportivas**](https://github.com/Llamas126/apuestas-deportivas) | Sports betting web app built as a Flutter learning project | Dart, Flutter |
-| [**proyecto-flutter**](https://github.com/Llamas126/proyecto-flutter) | Flutter application project | Dart, Flutter |
-| [**dashboard-user**](https://github.com/Llamas126/dashboard-user) | User dashboard interface | — |
-| [**Clase-web-wm1**](https://github.com/Llamas126/Clase-web-wm1) | Web development coursework | HTML |
 | [**Learning-flutter**](https://github.com/Llamas126/Learning-flutter) | Flutter fundamentals and exercises | Dart, Flutter |
-| [**G_Colab**](https://github.com/Llamas126/G_Colab) | Data science / Google Colab notebooks | Python |
+| [**proyecto-flutter**](https://github.com/Llamas126/proyecto-flutter) | Flutter application project | Dart, Flutter |
+| [**Clase-web-wm1**](https://github.com/Llamas126/Clase-web-wm1) | Web development coursework | HTML |
+| [**dashboard-user**](https://github.com/Llamas126/dashboard-user) | User dashboard interface | — |
 
-> 💡 *More projects coming soon — including a full-stack e-commerce app (React/TypeScript/Firebase), a security prototype with AES-256-GCM/RSA-2048 encryption, and `academic-automl-platform`, an AutoML platform for multi-target tabular analysis with automated LaTeX reporting, currently under active development.*
+> 💡 *More projects coming soon — including a full-stack e-commerce app (React/TypeScript/Firebase) and a security prototype with AES-256-GCM/RSA-2048 encryption.*
 
 ---
 
@@ -126,7 +127,7 @@ I'm actively looking for **junior developer opportunities in Spain**, and open t
 
 Soy estudiante de **Ingeniería de Sistemas** en la *Universidad Libre, Seccional Barranquilla*, y trabajo de forma independiente como desarrollador de software. Construyo agentes de automatización con **n8n**, aplicaciones web full-stack y prototipos de seguridad informática. Actualmente me preparo para trasladarme a **España**, reforzando mis habilidades en **Java / Spring Boot** para optar a roles de desarrollador junior.
 
-- 🔭 Desarrollando flujos de automatización con IA, aplicaciones full-stack y plataformas de microservicios para clientes reales
+- 🔭 Desarrollando flujos de automatización con IA, aplicaciones full-stack, plataformas de microservicios y `academic-automl-platform` (AutoML para análisis multi-target con reportes LaTeX automáticos) para clientes reales
 - 🌱 Profundizando en **Java y Spring Boot** con miras al mercado europeo
 - 🔐 Apasionado por la ciberseguridad aplicada — cifrado, autenticación, arquitectura segura
 - 🎓 Estudiante de Ingeniería de Sistemas, vinculado a la comunidad IEEE UNILIBRE BAQ
