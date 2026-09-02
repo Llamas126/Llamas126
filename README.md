@@ -105,7 +105,7 @@ I'm a **Systems Engineering student** at *Universidad Libre, Seccional Barranqui
 
 I'm actively looking for **junior developer opportunities in Spain**, and open to collaborating on AI automation, full-stack, or security-focused projects.
 
-- 📧 Email: juanc-llamasc@qbitsglobal.com
+- 📧 Email: ing.llamas.juan@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/juanc-llamasc](https://www.linkedin.com/in/juanc-llamasc/)
 - 📍 Based in Barranquilla, Colombia — relocating to Spain
 
@@ -134,6 +134,6 @@ Soy estudiante de **Ingeniería de Sistemas** en la *Universidad Libre, Secciona
 
 ## 📫 Contacto
 
-- 📧 Correo: juanc-llamasc@qbitsglobal.com
+- 📧 Correo: ing.llamas.juan@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/juanc-llamasc](https://www.linkedin.com/in/juanc-llamasc/)
 - 📍 Barranquilla, Colombia — en proceso de traslado a España
