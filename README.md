@@ -91,6 +91,10 @@ I'm a **Systems Engineering student** at *Universidad Libre, Seccional Barranqui
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Llamas126&style=for-the-badge&color=blue" alt="Profile Views">
+</p>
+
+<p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Llamas126&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165">
   <img src="https://streak-stats.demolab.com/?user=Llamas126&hide_border=true&theme=dark" alt="GitHub Streak" height="165">
 </p>
